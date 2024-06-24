@@ -7,8 +7,7 @@ export default function About() {
                 <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                     <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
                         Hi, I am Isha.
-                        <br className="hidden lg:inline-block" />Innovative software engineer dedicated to enhancing efficiency and user engagement.
-                    </h1>    
+                        <br className="hidden lg:inline-block" />Software Engineer Passionately Solving Problems Through Code</h1>
                     <p className="mb-8 leading-relaxed">
                     I am a highly skilled software engineer with a strong background in developing innovative solutions to enhance operational efficiency and user engagement. 
                     With a Master's in Electrical and Computer Engineering from the University of Waterloo and close to three years of experience as a software engineer, I bring a robust technical foundation and a proven track record of success in various projects and roles.
