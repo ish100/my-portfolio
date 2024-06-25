@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
-"homepage":"https://ish100.github.io/my-portfolio",
+  "homepage": "https://ish100.github.io/my-portfolio",
   "private": true,
   "dependencies": {
     "@craco/craco": "^5.9.0",
@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
+    "gh-pages": "^6.1.1",
     "postcss": "^7.0.36",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
   }
