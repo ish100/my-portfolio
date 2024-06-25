@@ -1,35 +1,31 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Connect",
+    subtitle: "Java || Springboot || React || PostgreSQL",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A social media platform focusing on personal development and community engagement.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Travel Diaries",
+    subtitle: "Node || Express || Javascript || HTML/CSS || Redis",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A web app that uses an algorithm to search and rank top travel destinations based on user history and surveys.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Pizza Ordering System",
+    subtitle: "Java || MySQL || Twilio APIs",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "A pizza ordering system to simulate restaurant operations, featuring both an administrator and customer portal.",
+    image: "./project-3.png",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Memory Lane",
+    subtitle: "React || JavaScript || HTML || CSS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "A front-end application with a photo gallery to store memories and a timeline to mark milestones for loved ones.",
+    image: "./project-5.gif",
   },
 ];
 
@@ -51,10 +47,28 @@ export const testimonials = [
 ];
 
 export const skills = [
+  "Java",
   "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
+  "Groovy", 
+  "SpringBoot",
+  "Apache Maven", 
+  "Gradle", 
+  "Grails",
+  "Python",
+  "Node", 
+  "React", 
   "Material UI",
+  "HTML/CSS", 
+  "MySQL", 
+  "Redis", 
+  "PostgreSQL", 
+  "MongoDB", 
+  "Oracle SQL Developer",
+  "Docker", 
+  "Netlify",
+  "Git", 
+  "Linux", 
+  "Unix",
+  "Jenkins",
+  "Agile Development",
 ];
