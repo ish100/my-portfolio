@@ -42,7 +42,8 @@ export default function Contact() {
                                 <a href="https://github.com/yourgithubusername" target="_blank" class="text-indigo-400 leading-relaxed">Github</a>
                             </h2>
                             <button className="mt-4 bg-indigo-500 text-white  px-6 rounded hover:bg-indigo-600">
-                                <a href="/resume.pdf" download>
+                                <a href="https://drive.google.com/file/d/140eHjb8cUKUkUfgA-R3Ls8i3Y3kbAk4l/view?usp=share_link" target="_blank" download>
+
                                     Download Resume
                                 </a>
                             </button>
