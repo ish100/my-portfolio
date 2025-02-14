@@ -42,7 +42,7 @@ export default function Contact() {
                                 <a href="https://github.com/ish100" target="_blank" class="text-indigo-400 leading-relaxed">Github</a>
                             </h2>
                             <button className="mt-4 bg-indigo-500 text-white  px-6 rounded hover:bg-indigo-600">
-                                <a href="https://drive.google.com/file/d/140eHjb8cUKUkUfgA-R3Ls8i3Y3kbAk4l/view?usp=share_link" target="_blank" download>
+                                <a href="https://drive.google.com/file/d/1Xm_wTaUZ5kaq-y9_Lf9RmqKkcyu6-gUR/view?usp=sharing" target="_blank" download>
 
                                     Download Resume
                                 </a>
